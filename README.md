@@ -1,3 +1,3 @@
 # Review-Scraper
 
-[Visit App](https://reviewscraper-by-utsav.herokuapp.com/){:target="_blank"}
+[Visit App on heroku](https://reviewscraper-by-utsav.herokuapp.com/)
