@@ -1,3 +1,3 @@
 # Review-Scraper
 
-Visit Here: https://reviewscraper-by-utsav.herokuapp.com/
+<a href="https://reviewscraper-by-utsav.herokuapp.com/ target="_blank">Visit This app</a>
