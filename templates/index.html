@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Search Page</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock head %}
+
+{% block body %}
+<div class="content">
+    <h3 style="text-align: center" id='search'>Search for any product and this app will give all the reviews from flipkart</h3>
+    
+
+    <div class="form">
+        <form action="/review" method="POST">
+            <input type="text" name="content" id="content" placeholder="Enter Your Search">
+            <input id='btn' type="submit" value="Search">
+        </form>
+    </div>
+</div>
+{% endblock body %}
+
