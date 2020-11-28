@@ -1,2 +1,0 @@
-# reviewscraper
-# Review-Scraper
